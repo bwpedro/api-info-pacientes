@@ -1,0 +1,42 @@
+{
+	"nomecompleto"  : "Pedro Warmling Botelho",
+	"nomesocial"    : "Pedro",
+	"nomemae"       : "xxxxxx",
+	"nomepai"       : "dsaass",
+	"nascimento"    : "3212/09/12",
+	"sexo"          : "Masculino",
+	"rg"            : "111111",
+	"ufrg"          : "PR",
+	"cpf"           : "11111111",
+	"email" 		: "pedro@gmail.com",
+	"endereco"      : 
+					[{
+						"tipo"         : "Cobrança",
+						"cep"          : "111111",
+						"uf"           : "PR",
+						"cidade"       : "Realeza",
+						"bairro"       : "Centro",
+						"logradouro"   : "Teste",
+						"numero"       : "2222",
+						"complemento"  : "Casa"
+					},
+					{
+						"tipo"         : "Residencial",
+						"cep"          : "111111",
+						"uf"           : "PR",
+						"cidade"       : "Ponta Grossa",
+						"bairro"       : "Centro",
+						"logradouro"   : "ffdssss",
+						"numero"       : "2222",
+						"complemento"  : "xxxxx"
+					}],
+	"telefone"      : 
+					[{
+        				"numero"       : "(11) 1111111",
+        				"tipo"         : "Residencial"
+					},
+					{
+        				"numero"       : "(11) 11111111",
+        				"tipo"         : "Celular"
+					}]
+}
